@@ -44,10 +44,10 @@ An interactive 2D action-educational simulation game developed using Godot Engin
 
 ```
 .
+.
 ├── project.godot          # Godot project file (open this in the editor)
+├── gd.scripts/            # GDScript files: game logic
 ├── scenes/                # Game scenes (.tscn)
-├── *.gd                   # GDScript files: game logic
-├── *.tscn                 # Additional scenes (e.g. bato.tscn)
 └── Assets-Fire-Rescue/    # Screenshots used in this README
 ```
 
